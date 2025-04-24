@@ -1,7 +1,6 @@
 # Little Taco Shop 🌮
 
 Welcome to **Little Taco Shop**, a fun and interactive web application where you can browse our taco menu, add items to your cart, and place orders.
-
 ## Features
 - Browse delicious tacos and other menu items.
 - Mobile-responsive design.
